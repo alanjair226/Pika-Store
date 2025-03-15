@@ -1,0 +1,3 @@
+[submodule "Backend_pokeStore"]
+	path = Backend_pokeStore
+	url = https://github.com/alanjair226/Backend_pokeStore.git
